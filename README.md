@@ -1,2 +1,2 @@
 # PyDS
-small projects for learning the basic tools of Python for data analysis
+small projects to learn basic Python tools for data analysis
